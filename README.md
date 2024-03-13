@@ -1,1 +1,1 @@
-# ics-it-test2-task1
+# ics-it.Creating programmable objects in a SQL server database _(all folders in lesson_0 branch)_
